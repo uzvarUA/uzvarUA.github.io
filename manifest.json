@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "Home",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "uzvarUA.github.io",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "uzvarUA.github.io",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [
+    {
+      "name": "Туторіал ",
+      "url": "https://uzvarua.github.io/",
+      "description": "Відео для тотуріал"
+    }
+  ],
+  "lang": "uk",
+  "prefer_related_applications": false
+}
