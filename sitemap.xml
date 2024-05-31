@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
 <loc>https://uzvarua.github.io/</loc>
 <lastmod>2024-05-31</lastmod>
-</sitemap>
-<sitemap>
+</url>
+<url>
 <loc>https://uzvarua.github.io/Patched/</loc>
 <lastmod>2024-05-31</lastmod>
-
-</sitemapindex>
+</url>
+</urlset>
