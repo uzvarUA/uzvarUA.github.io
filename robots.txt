@@ -3,3 +3,5 @@ Allow: /
 
 User-agent: *
 Disallow: /
+
+Sitemap: https://uzvarua.github.io/sitemap.xml
