@@ -1,5 +1,6 @@
 User-agent: duckduckbot
 Disallow:
+Crawl-delay: 5
 
 User-agent: *
 Disallow: /
